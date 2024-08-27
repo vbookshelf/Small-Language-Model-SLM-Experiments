@@ -1,4 +1,4 @@
-# Small-Language-Model-SLM-Experiments
+# Small Language Model SLM Experiments
 My experiments with small language models (SLMs)
 <br>
 <br>
