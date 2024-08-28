@@ -7,6 +7,9 @@ My experiments with small language models (SLMs)
 - Exp1 - Set up Phi3-mini<br>
 https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp1%20_%20Set%20up%20Phi3-mini
 
+- Exp2 - Set up Phi3-vision<br>
+https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp2_Set%20up%20Phi3-vision
+
 <br>
 <br>
 
