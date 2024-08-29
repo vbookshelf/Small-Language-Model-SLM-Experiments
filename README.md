@@ -10,6 +10,10 @@ https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp
 - Exp2 - Set up Phi3-vision<br>
 https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp2_Set%20up%20Phi3-vision
 
+- Exp3 - Set up Llama3.1-8b<br>
+(Includes how to create embeddings and how to download the model and tokenizer)<br>
+https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp3_Set%20up%20Llama3.1-8b
+
 <br>
 <br>
 
