@@ -14,6 +14,10 @@ https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp
 (Includes how to create embeddings and how to download the model and tokenizer)<br>
 https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp3_Set%20up%20Llama3.1-8b
 
+- Exp4 - My finetuning template for Lora and QLora<br>
+(Example code to fine tune Phi3-mini)<br>
+https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp4_My%20finetuning%20template%20for%20Lora%20and%20QLora
+
 <br>
 <br>
 
@@ -38,3 +42,7 @@ https://www.kaggle.com/code/vbookshelf/deepseek-rag-w-self-cons-faiss-sent-trans
 
 - KaggleBot - Gemma-7b-it RAG w few-shot prompting<br>
 https://www.kaggle.com/code/vbookshelf/kagglebot-gemma-7b-it-rag-w-few-shot-prompting
+
+- Phi3 cookbook - Finetuning example code<br>
+(See left panel. Includes vanilla finetuning, Lora and QLora example notebooks)<br>
+https://github.com/microsoft/Phi-3CookBook/blob/main/code/04.Finetuning/Phi-3-finetune-lora-python.ipynb
