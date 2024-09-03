@@ -18,6 +18,10 @@ https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp
 (Example code to fine tune Phi3-mini)<br>
 https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp4_My%20finetuning%20template%20for%20Lora%20and%20QLora
 
+- Exp5 - Set up LongWriter and generate a 5000-word story<br>
+(Generate text that exceeds the 2000 output token limit that most LLMs have.)<br>
+https://github.com/vbookshelf/Small-Language-Model-SLM-Experiments/tree/main/Exp5_Set%20up%20LongWriter%20and%20generate%20a%20story
+
 <br>
 <br>
 
