@@ -50,3 +50,14 @@ https://www.kaggle.com/code/vbookshelf/kagglebot-gemma-7b-it-rag-w-few-shot-prom
 - Phi3 cookbook - Finetuning example code<br>
 (See left panel. Includes vanilla finetuning, Lora and QLora example notebooks)<br>
 https://github.com/microsoft/Phi-3CookBook/blob/main/code/04.Finetuning/Phi-3-finetune-lora-python.ipynb
+
+<br>
+<br>
+
+## Notes
+
+- Info on how to fine tune the PaliGemma vlm<br>
+Sam Witteveen<br>
+https://www.youtube.com/watch?v=z14pypZebtQ&t<br>
+Colab notebook:<br>
+https://colab.research.google.com/drive/1O9bkceqrOwfQjN4_hlizHH1bGwPF26r8?usp=sharing
